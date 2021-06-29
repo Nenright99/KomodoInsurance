@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\Developers\bin\Debug\Developers.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\Developers\bin\Debug\Developers.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\Developers\obj\Debug\Developers.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\Developers\obj\Debug\Developers.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\Developers\obj\Debug\Developers.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\Developers\obj\Debug\Developers.pdb

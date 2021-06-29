@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\DevTeams\bin\Debug\DevTeams.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\DevTeams\bin\Debug\DevTeams.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\DevTeams\bin\Debug\Developers.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\DevTeams\bin\Debug\Developers.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\DevTeams\obj\Debug\DeveloperTeams.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\DevTeams\obj\Debug\DeveloperTeams.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\DevTeams\obj\Debug\DeveloperTeams.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\DevTeams\obj\Debug\DevTeams.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\DevTeams\obj\Debug\DevTeams.pdb

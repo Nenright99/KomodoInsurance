@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\bin\Debug\ProgramUI.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\bin\Debug\ProgramUI.exe
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\bin\Debug\ProgramUI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\bin\Debug\Developers.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\bin\Debug\DevTeams.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\bin\Debug\Developers.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\bin\Debug\DevTeams.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\obj\Debug\Interface.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\obj\Debug\ProgramUI.exe
+C:\ElevenFiftyProjects\DotNetProjects\KomodInsurance\ProgramUI\obj\Debug\ProgramUI.pdb
